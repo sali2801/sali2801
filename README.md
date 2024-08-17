@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saliha Mallem
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Architecture
+- 🌱 I’m currently learning MLOps + Cloud-Native
 - 📫 How to reach me? Please send me an email as_mallem@esi.dz
 
 <!---
