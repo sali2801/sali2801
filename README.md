@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saliha Mallem
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning MLOps + Cloud-Native
+- 👋 Hi, I’m Saliha Mallem
+- 👀 I’m passionate about AI and Kubernetes
+- 🌱 Currently diving into MLOps and Cloud-Native technologies
 - 📫 How to reach me? Please send me an email as_mallem@esi.dz
 
 <!---
