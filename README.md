@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Saliha Mallem
-- 👀 I’m passionate about AI and Kubernetes
 - 🌱 Diving into Cloud-Native technologies
 - 📫 How to reach me? Please send me an email saliha.mallem.pro@gmail.com
 <!---
